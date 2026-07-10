@@ -655,7 +655,7 @@ const honourRoll = {
 
         {
             award: "Star Award",
-            student: "OSAIGE IWINOSA"
+            student: "OSAGIE IWINOSA ANNIE"
         },
 
         {
@@ -1196,7 +1196,7 @@ const honourRoll = {
 
         {
             award: "Montessori Clean-up Champion (F)",
-            student: "OSAWENMWENZE ESOSA FEODORA"
+            student: "OSAWEMWENZE ESOSA FEODORA"
         },
 
         {
@@ -1521,7 +1521,7 @@ const honourRoll = {
 
     {
         award: "Literacy King",
-        student: "NJOKU MIRACLE CHUKWEBUKA"
+        student: "NJOKU MIRACLE CHUKWUEBUKA"
     },
 
     {
@@ -1652,12 +1652,12 @@ const honourRoll = {
 
     {
         award: "Maths King",
-        student: "OSHIOBUGIE SEAN ABDULSALAM"
+        student: "OSHIOBUGIE SEAN ABDULSALAM, EROMOMENE JACQUES EBINEHITA"
     },
 
     {
         award: "Maths Queen",
-        student: "EROMOMENE JACQUES EBINEHITA"
+        student: "OBASEKI IMADE ABRIELLA"
     },
 
     {
@@ -1667,32 +1667,32 @@ const honourRoll = {
 
     {
         award: "Superb Scientist (Male)",
-        student: "OBASEKI IMADE ABRIELLA"
-    },
-
-    {
-        award: "Superb Scientist (Female)",
         student: "ESOSA EDOMAMWEN STEFAN"
     },
 
     {
-        award: "Fantastic Parent Helper",
+        award: "Superb Scientist (Female)",
         student: "NOSAKHARE AUDREY ELOGHOSA, OBASEKI IMADE ABRIELLA"
     },
 
     {
-        award: "Commendable Pupil",
+        award: "Fantastic Parent Helper",
         student: "MRS KATE OSHIOBUGIE"
     },
 
     {
-        award: "Meritorious Pupil",
+        award: "Commendable Pupil",
         student: "EROMOMENE JACQUES EBINEHITA (93.8%)"
     },
 
     {
-        award: "Star Pupil",
+        award: "Meritorious Pupil",
         student: "NOSAKHARE AUDREY ELOGHOSA (95.64%)"
+    },
+
+    {
+        award: "Star Pupil",
+        student: "OBASEKI IMADE ABRIELLA (97.94%)"
     }
 
 ],
