@@ -3832,7 +3832,7 @@ function displayAcademicHonours(year){
             </div>
 
             <div class="student-name">
-                ${graduate.student}
+                "EBINEHITA AVERY OZAH"
             </div>
 
         </div>
