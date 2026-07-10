@@ -2512,19 +2512,15 @@ const honourRoll = {
         student: "OKONKWO ISIDORA ONAEDO"
     },
 
+
     {
-        award: "Fantastic Parent Helper",
+        award: "Commendable Pupil",
         student: "OKODUWA OSEREMEN FREDDY (90.96%)"
     },
 
     {
-        award: "Commendable Pupil",
-        student: "OKONKWO ISIDORA ONAEDO (92.42%)"
-    },
-
-    {
         award: "Meritorious Pupil",
-        student: "EGBADON IRENOSEN MIRA (94.87%)"
+        student: "OKONKWO ISIDORA ONAEDO (92.42%)"
     },
 
     {
@@ -2660,10 +2656,6 @@ const honourRoll = {
         student: "EKENE DARA SMART CHIMA"
     },
 
-    {
-        award: "Perfect Attendance",
-        student: "OSAMUYI MAXWELL"
-    },
 
     {
         award: "Kindness King",
@@ -2682,42 +2674,42 @@ const honourRoll = {
 
     {
         award: "Most Improved",
-        student: "OMOLEMEN OSEMUDIAMEN GIOVANNI"
+        student: "ROBERT - NWOSU ZURIEL"
     },
 
     {
         award: "English King",
-        student: "IDODE ONOSHOZE AUDREY"
+        student: "OMOLEMEN OSEMUDIAMEN GIOVANNI"
     },
 
     {
         award: "English Queen",
-        student: "OMOLEMEN OSEMUDIAMEN GIOVANNI"
+        student: "IDODE ONOSHOZE AUDREY "
     },
 
     {
         award: "Maths King",
-        student: "OKE MICHELLE OLUWATONI"
-    },
-
-    {
-        award: "Maths Queen",
-        student: "IDODE AUDREY ONOSHOZE"
-    },
-
-    {
-        award: "Topnotch Techie",
         student: "OMOLEMEN OSEMUDIAMEN GIOVANNI"
     },
 
     {
+        award: "Maths Queen",
+        student: "OKE MICHELLE OLUWATONI "
+    },
+
+    {
+        award: "Topnotch Techie",
+        student: "IDODE  AUDREY ONOSHOZE"
+    },
+
+    {
         award: "Superb Scientist (Male)",
-        student: "IDODE AUDREY ONOSHOZE"
+        student: "OMOLEMEN OSEMUDIAMEN GIOVANNI"
     },
 
     {
         award: "Superb Scientist (Female)",
-        student: "No Name"
+        student: "IDODE AUDREY ONOSHOZE "
     },
 
     {
@@ -2801,17 +2793,17 @@ const honourRoll = {
 
     {
         award: "Maths King",
-        student: "OSAIGBOVO GODSWILL ONYANIONYA"
+        student: "OSAIGBOVO GODSWILL ONYANIONYA, EZIKPE CHUKWUMA IDIKA"
     },
 
     {
         award: "Maths Queen",
-        student: "EZIKPE CHUKWUMA IDIKA"
+        student: "CHIKE-LOUIS TREASURE CHIZITERE"
     },
 
     {
         award: "Topnotch Techie",
-        student: "CHIKE-LOUIS TREASURE CHIZITERE"
+        student: "EBEDE JAYDEN IFECHUKWUDE"
     },
 
     {
@@ -2956,7 +2948,7 @@ const honourRoll = {
 
 ],
 
-        "Larima": [
+        "Larimar": [
 
     {
         award: "Happy Helper",
@@ -3444,12 +3436,12 @@ const honourRoll = {
 
     {
         award: "Topnotch Techie",
-        student: "SOLOMON-KING OSAHENRUMWEN OSAYATIN-EWEKA"
+        student: "EBINEHITA AVERY OZAH"
     },
 
     {
         award: "Superb Scientist (Male)",
-        student: "EBINEHITA AVERY OZAH"
+        student: "SOLOMON-KING OSAHENRUMWEN OSAYATIN-EWEKA"
     },
 
     {
