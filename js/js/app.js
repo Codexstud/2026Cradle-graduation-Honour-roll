@@ -3752,7 +3752,7 @@ function displayAcademicHonours(year){
     const star = awards.find(a => a.award === "Star Pupil") || {student:"No Name"};
     const merit = awards.find(a => a.award === "Meritorious Pupil") || {student:"No Name"};
     const commend = awards.find(a => a.award === "Commendable Pupil") || {student:"No Name"};
-    const graduate = awards.find(a => a.award === "Best Graduating Student") || {student:"No Name"};
+    const graduate = awards.find(a => a.award === "Best Graduating Student") || {student:"EBINEHITA AVERY OZAH"};
 
     let html = "";
 
@@ -3832,7 +3832,7 @@ function displayAcademicHonours(year){
             </div>
 
             <div class="student-name">
-                "EBINEHITA AVERY OZAH"
+                ${graduate.student}
             </div>
 
         </div>
