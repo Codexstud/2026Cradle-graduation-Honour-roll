@@ -2634,7 +2634,7 @@ const honourRoll = {
 
 ],
 
-   "Carnelian": [
+  "Carnelian": [
 
     {
         award: "Happy Helper",
@@ -2656,6 +2656,10 @@ const honourRoll = {
         student: "EKENE DARA SMART CHIMA"
     },
 
+    {
+        award: "Perfect Attendance",
+        student: "OSAMUYI MAXWELL"
+    },
 
     {
         award: "Kindness King",
@@ -2667,10 +2671,7 @@ const honourRoll = {
         student: "SIMON AGBENU TALIA"
     },
 
-    {
-        award: "Perfect Handwriting",
-        student: "ROBERT-NWOSU ZURIEL"
-    },
+   
 
     {
         award: "Most Improved",
@@ -2709,7 +2710,7 @@ const honourRoll = {
 
     {
         award: "Superb Scientist (Female)",
-        student: "IDODE AUDREY ONOSHOZE "
+        student: "IDODE AUDREY ONOSHOZE"
     },
 
     {
@@ -2733,7 +2734,6 @@ const honourRoll = {
     }
 
 ],
-
        "Fluorite": [
 
     {
