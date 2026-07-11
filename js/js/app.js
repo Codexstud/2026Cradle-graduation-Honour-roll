@@ -3255,7 +3255,7 @@ const honourRoll = {
 
     {
         award: "Star Pupil",
-        student: "IKIDI TIMIPA JAYDEN (90.20%)"
+        student: "IKIDI TIMIPA JAYDEN (90.29%)"
     }
 
 ],
